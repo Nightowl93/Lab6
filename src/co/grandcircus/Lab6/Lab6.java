@@ -1,3 +1,7 @@
+/* Shontinique Uqdah
+ * 07/19/2018
+ */
+
 package co.grandcircus.Lab6;
 
 import java.util.Random;
